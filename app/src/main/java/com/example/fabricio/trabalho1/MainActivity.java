@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //add
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button cadastrar = (Button) findViewById(R.id.btCadastrar);
